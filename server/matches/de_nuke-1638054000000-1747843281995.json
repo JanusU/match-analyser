@@ -1,0 +1,107 @@
+{
+  "match": {
+    "map": "de_nuke",
+    "teams": [
+      "TeamVitality",
+      "NAVI GGBET"
+    ],
+    "score": {
+      "NAVI GGBET": 6,
+      "TeamVitality": 16
+    },
+    "rounds": 22
+  },
+  "players": [
+    {
+      "name": "Boombl4",
+      "steamID": "92970669",
+      "team": "NAVI GGBET",
+      "kills": 9,
+      "deaths": 18,
+      "assists": 0,
+      "damage": 1407
+    },
+    {
+      "name": "ZywOo",
+      "steamID": "76700232",
+      "team": "TeamVitality",
+      "kills": 21,
+      "deaths": 14,
+      "assists": 3,
+      "damage": 2794
+    },
+    {
+      "name": "s1mple",
+      "steamID": "36968273",
+      "team": "NAVI GGBET",
+      "kills": 18,
+      "assists": 2,
+      "deaths": 17,
+      "damage": 2416
+    },
+    {
+      "name": "Perfecto",
+      "steamID": "80477379",
+      "team": "NAVI GGBET",
+      "kills": 10,
+      "deaths": 17,
+      "assists": 2,
+      "damage": 1451
+    },
+    {
+      "name": "shox",
+      "steamID": "23327283",
+      "team": "TeamVitality",
+      "kills": 20,
+      "deaths": 17,
+      "assists": 3,
+      "damage": 2731
+    },
+    {
+      "name": "b1t",
+      "steamID": "143170874",
+      "team": "NAVI GGBET",
+      "kills": 17,
+      "assists": 2,
+      "deaths": 18,
+      "damage": 2368
+    },
+    {
+      "name": "electronic",
+      "steamID": "41889689",
+      "team": "NAVI GGBET",
+      "kills": 9,
+      "deaths": 16,
+      "assists": 4,
+      "damage": 1485
+    },
+    {
+      "name": "apEX",
+      "steamID": "14739219",
+      "team": "TeamVitality",
+      "kills": 20,
+      "deaths": 10,
+      "assists": 3,
+      "damage": 2566
+    },
+    {
+      "name": "misutaaa",
+      "steamID": "60631591",
+      "team": "TeamVitality",
+      "kills": 15,
+      "deaths": 9,
+      "assists": 3,
+      "damage": 1848
+    },
+    {
+      "name": "Kyojin",
+      "steamID": "22851120",
+      "team": "TeamVitality",
+      "kills": 10,
+      "deaths": 13,
+      "assists": 5,
+      "damage": 1565
+    }
+  ],
+  "timeStamp": 1638054000000
+}

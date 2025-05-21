@@ -1,0 +1,39 @@
+@import 'tailwindcss';
+
+#root {
+  text-align: center;
+}
+
+ .button {
+    margin: calc(var(--spacing)*0);
+    height: calc(var(--spacing)*10);
+    cursor: pointer;
+    touch-action: manipulation;
+    border-radius: var(--radius-small);
+    border-style: var(--tw-border-style);
+    --tw-border-style: solid;
+    padding-inline: calc(var(--spacing)*7);
+    padding-block: calc(var(--spacing)*3);
+    text-transform: uppercase;
+    letter-spacing: .96px;
+    transition-property: all;
+    transition-timing-function: var(--tw-ease,var(--default-transition-timing-function));
+    transition-duration: var(--tw-duration,var(--default-transition-duration));
+    --tw-duration: .1s;
+    --tw-ease: var(--ease-in-out);
+    transition-duration: .1s;
+    transition-timing-function: var(--ease-in-out);
+    -webkit-user-select: none;
+    user-select: none;
+    background-color: #fffe3e;
+    color: #121212;
+    border: 1px solid #0000;
+    flex-direction: column;
+    justify-content: center;
+    place-items: center;
+    font-family: TT Norms Pro,sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 16px;
+    display: flex;
+  }
