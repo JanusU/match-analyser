@@ -38,7 +38,7 @@ Start the Client
 cd client
 npm run dev
 
-The client will start in development mode, typically at http://localhost:3000.
+The client will start in development mode, typically at http://localhost:5173.
 Project Structure
 
 root
@@ -52,6 +52,5 @@ Notes
 
     Analyzed matches are saved as JSON files inside the server/matches directory.
 
-    Adjust ports if needed in your configuration files.
 
 ![billede](https://github.com/user-attachments/assets/8fd70238-5e1f-47d5-ad16-1960756abb03)
