@@ -1,6 +1,4 @@
 # match-analyser
-Blast.tv code challenge :)
-
 The project includes a place to upload txt files to be analysed, the result is then saved in a json on the server to be loaded in the frontend to see the stats for the match.
 
 
